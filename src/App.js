@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_URL = "https://your-backend-url.onrender.com"; // Change after deployment
+const API_URL = "https://tenant-0zvl.onrender.com"; // Change after deployment
 
 function App() {
   const [tenants, setTenants] = useState([]);
